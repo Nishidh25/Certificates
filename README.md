@@ -18,7 +18,7 @@
 --------------------
 | Specialization | Length | Certificate | Work Repository |
 | --- | --- | --- | --- |
-| <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png?auto=format%2Ccompress&dpr=1&w=120&h=120" align="left">   Deep Learning | - | [Certificate](https://www.coursera.org/account/accomplishments/specialization/FWSFNRS2HV24?utm_source=link&utm_campaign=copybutton_certificate&utm_product=s12n) [Verify](https://www.coursera.org/account/accomplishments/specialization/FWSFNRS2HV24) | [Repo Link](https://github.com/Nishidh25/Deep-learning-coursera) |
+| <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png?auto=format%2Ccompress&dpr=1&w=120&h=120" align="left">  <h2><b>Deep Learning</b></h2> | - | [Certificate](https://www.coursera.org/account/accomplishments/specialization/FWSFNRS2HV24?utm_source=link&utm_campaign=copybutton_certificate&utm_product=s12n) [Verify](https://www.coursera.org/account/accomplishments/specialization/FWSFNRS2HV24) | [Repo Link](https://github.com/Nishidh25/Deep-learning-coursera) |
 
 | Course | Certificate | Score |
 | --- | --- | --- |
@@ -33,7 +33,7 @@
 
 | Specialization | Length | Certificate | Work Repository |
 | --- | --- | --- | --- |
-| <img src="https://s3.amazonaws.com/coursera/topics/ml/small-icon.hover.png" align="left">  Advanced Machine Learning | - | [Certificate](https://www.coursera.org/account/accomplishments/specialization/9LTX3TBGMV3K?utm_source=link&utm_campaign=copybutton_certificate&utm_product=s12n) | [Repo Link](https://github.com/Nishidh25/Advanced-Machine-Learning-Specialization) |
+| <img src="https://s3.amazonaws.com/coursera/topics/ml/small-icon.hover.png" align="left"> <h2><b>Advanced Machine Learning</b></h2> | - | [Certificate](https://www.coursera.org/account/accomplishments/specialization/9LTX3TBGMV3K?utm_source=link&utm_campaign=copybutton_certificate&utm_product=s12n) | [Repo Link](https://github.com/Nishidh25/Advanced-Machine-Learning-Specialization) |
 
 | Course | Certificate | Score |
 | --- | --- | --- |
